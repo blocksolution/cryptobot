@@ -9,4 +9,6 @@ All sniper logic and code is published in the website and the source code is ava
 
 In any case use a new wallet and Do Your Own Research on the coin that you want to snipe!
 
+Android and iOS version coming soon!
+
 For any feature request or issue open an issue on this repo.
