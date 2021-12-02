@@ -5,7 +5,7 @@ The website is fully working and is under development: https://sniper-native.web
 
 IMPORTANT: after you sign up, send an email to bscsniperbot@gmail.com to require the access to the website during development.
 
-During development the website is free of use, then in will take 10% from the single snipe if and only if the snipe is profitable and > 0.01 BNB. 
+During development the website is free of use, then in will take 10% from the single snipe if and only if the snipe is profitable and > 0.01 BNB (you will be alerted and you will need to accept the terms and conditions after the development finish the beta testing). 
 
 The only APIs on the website are used for login/logout or to save configurations based on your will.
 
