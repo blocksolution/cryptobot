@@ -54,6 +54,10 @@ For any feature request or issue open an issue on this repo.
 
 [Changelog](https://github.com/blocksolution/cryptobot/blob/main/CHANGELOG.md)
 
+## Donations
+
+10% of fee is often not enough to cover server costs. Consider donate BTC to: 3MVEM3fkNuFCkan14BvY9FzmPQe9gcpzrt
+
 ## How to
 
 To create a wallet follow this steps:
