@@ -1,16 +1,36 @@
 # Cryptobot token sniper
 
-Multiplatform crypto bot for sniping and frontrunning on BSC and Ether
+Multiplatform crypto bot for sniping and frontrunning on BSC and Ether.
+
+ATTENTION: This is not a website such as pancakeswap. This website will not use pancakeswap, metamask ecc.., but it communicate directly with BSC nodes to snipe faster than other users! Buy first and sell at peaks!
 
 ## Website
 
 The website is fully working and is under active development: https://sniper-native.web.app/
+
+## Project
+
+Cryptobot is a tool programmed in Javascript and Web3 which aim to snipe new token launches paired with BNB. It constantly updates the price and shows you the profit you've made, and allows you to sell manually. 
+There are a lot of places to search for new listings such as:
+
+ - https://t.me/BSCLaunchPredator
+ - https://t.me/cryptolaunchbsc
 
 ## Fee
 
 During development the website is free of use, then in will take 10% from the single snipe if and only if the snipe is profitable and > 0.01 BNB (you will be alerted and you will need to accept the terms and conditions after the beta testing).
 
 Guys that will contribute with usefull issues will have free life access to sniper tool.
+
+## Features
+
+- [x] Buy as soon as liquidity is added
+- [x] Automatic honeypot checker, will avoid you to buy scam tokens, but DYOR
+- [x] Real time earnings update as soon as token is bought
+- [ ] History of token bought
+- [ ] Coming soon tokens listing
+- [ ] Front running strategy
+- [ ] Automatic buy & sell
 
 ## Security
 
