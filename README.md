@@ -58,10 +58,19 @@ For any feature request or issue open an issue on this repo.
 
 10% of fee is often not enough to cover server costs. Consider donate BTC to: 3MVEM3fkNuFCkan14BvY9FzmPQe9gcpzrt
 
-## How to
+## Website onboard configuration
+
+### Get wallet address and private key:
 
 To create a wallet follow this steps:
 
  - Install [metamask](https://metamask.io/download)
  - Create a new wallet
+ - Wallet address will be on top of your metamask extension
  - Export your private key to be used on the site: https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
+
+### Sniper settings
+
+GAS PRICE: how fast the transaction will be processed. 5 will be normal speed, > 5 will be faster.
+GAS AMOUNT: amount of gas available to be consumed. Leave the default amount as should be enough.
+BNB TO BUY: amount of BNB used to buy new tokens
