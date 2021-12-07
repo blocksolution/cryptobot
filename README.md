@@ -21,6 +21,8 @@ For any feature request or issue open an issue on this repo.
 ## Changelog
 [Changelog](https://github.com/blocksolution/cryptobot/blob/main/CHANGELOG.md)
 
+## How to
+
 To create a wallet follow this steps:
 
  - Install [metamask](https://metamask.io/download)
