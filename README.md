@@ -8,6 +8,8 @@ ATTENTION: This is not a website such as pancakeswap. This website will not use 
 
 The website is fully working and is under active development: https://sniper-native.web.app/
 
+![Alt Text](https://github.com/blocksolution/cryptobot/blob/main/gui.gif)
+
 ## Project
 
 Cryptobot is a tool programmed in Javascript and Web3 which aim to snipe new token launches paired with BNB. It constantly updates the price and shows you the profit you've made, and allows you to sell manually. 
