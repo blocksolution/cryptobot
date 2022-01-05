@@ -4,6 +4,10 @@ Multiplatform crypto bot for sniping and frontrunning on BSC and Ether.
 
 ATTENTION: This is not a website such as pancakeswap. This website will not use pancakeswap, metamask ecc.., but it communicate directly with BSC nodes to snipe faster than other users! Buy first and sell at peaks!
 
+## Support
+
+https://t.me/+XGXdsgFphZ1hZDk8
+
 ## Website
 
 The website is fully working and is under active development: https://sniper-native.web.app/
@@ -59,10 +63,6 @@ For any feature request or issue open an issue on this repo.
 ## Donations
 
 10% of fee is often not enough to cover server costs. Consider donate BTC to: 3MVEM3fkNuFCkan14BvY9FzmPQe9gcpzrt
-
-## Support
-
-https://t.me/+XGXdsgFphZ1hZDk8
 
 ## Website onboard configuration
 
