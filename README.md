@@ -18,7 +18,7 @@ The website is fully working and is under active development: https://sniper-nat
 
 COMING SOON!
 
-![](https://github.com/blocksolution/cryptobot/blob/main/android_gui.gif | width=300)
+<img src="https://github.com/blocksolution/cryptobot/blob/main/android_gui.gif" width="300">
 
 ## iOS
 
