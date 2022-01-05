@@ -60,6 +60,10 @@ For any feature request or issue open an issue on this repo.
 
 10% of fee is often not enough to cover server costs. Consider donate BTC to: 3MVEM3fkNuFCkan14BvY9FzmPQe9gcpzrt
 
+## Support
+
+https://t.me/+XGXdsgFphZ1hZDk8
+
 ## Website onboard configuration
 
 ### Get wallet address and private key:
