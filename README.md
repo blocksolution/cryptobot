@@ -56,9 +56,9 @@ All sniper logic and code is published in the website and the source code is ava
 
 In any case use a new wallet and Do Your Own Research on the coin that you want to snipe!
 
-## Coming soon
+## Source Code
 
-Android and iOS version coming soon!
+The source code is obfuscated, but if you wish to buy it we are selling it at 1 BNB at the moment. Write us to have more information about it.
 
 ## Contributing
 
